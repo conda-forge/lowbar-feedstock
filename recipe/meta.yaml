@@ -1,5 +1,5 @@
 {% set name = "lowbar" %}
-{% set version = "1.1.4" %}
+{% set version = "1.1.5" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lowbar-{{ version }}.tar.gz
-  sha256: c3c8b8acb339593d17fbf66ac300f9e650b7064765b3e451b6310d380241d8ac
+  sha256: 1afabff04eb5a587b566fe2bddab96ac7bcae2b56fa7369dcd541af1b31ab61a
 
 build:
   noarch: python
