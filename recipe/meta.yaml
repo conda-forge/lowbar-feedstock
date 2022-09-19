@@ -1,5 +1,5 @@
 {% set name = "lowbar" %}
-{% set version = "1.1.5" %}
+{% set version = "1.4.1" %}
 
 package:
   name: {{ name|lower }}
@@ -7,7 +7,7 @@ package:
 
 source:
   url: https://pypi.io/packages/source/{{ name[0] }}/{{ name }}/lowbar-{{ version }}.tar.gz
-  sha256: 1afabff04eb5a587b566fe2bddab96ac7bcae2b56fa7369dcd541af1b31ab61a
+  sha256: 6fa30f811c24b7e142f12f2f5357bb69eae774eaf41f77297e4533fdec176b7d
 
 build:
   noarch: python
@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://pypi.org/project/lowbar/
+  home: https://github.com/AnnikaV9/lowbar
   summary: The simplest no-nonsense progress bar for python.
   license: MIT
   license_file:
