@@ -1,7 +1,7 @@
 About lowbar
 ============
 
-Home: https://pypi.org/project/lowbar/
+Home: https://github.com/AnnikaV9/lowbar
 
 Package license: MIT
 
