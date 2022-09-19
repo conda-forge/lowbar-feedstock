@@ -31,7 +31,7 @@ test:
     - pip
 
 about:
-  home: https://pypi.org/project/lowbar/
+  home: https://github.com/AnnikaV9/lowbar
   summary: The simplest no-nonsense progress bar for python.
   license: MIT
   license_file:
