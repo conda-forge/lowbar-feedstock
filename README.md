@@ -1,11 +1,11 @@
-About lowbar
-============
+About lowbar-feedstock
+======================
+
+Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lowbar-feedstock/blob/main/LICENSE.txt)
 
 Home: https://github.com/AnnikaV9/lowbar
 
 Package license: MIT
-
-Feedstock license: [BSD-3-Clause](https://github.com/conda-forge/lowbar-feedstock/blob/main/LICENSE.txt)
 
 Summary: The simplest no-nonsense progress bar for python.
 
